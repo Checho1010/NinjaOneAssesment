@@ -9,8 +9,7 @@ application shut down, you can change the spring.database.jdbc-url to point at a
 Run the `BackendInterviewProjectApplication` class
 
 Go to:
-* http://localhost:8080/sample/1
-* http://localhost:8080/sample/2
+* http://localhost:8080/rmm/v1/device/all
 
 You should see results for both of these. The application is working and connected to the H2 database. 
 
